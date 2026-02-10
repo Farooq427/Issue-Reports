@@ -1,6 +1,6 @@
 ### 🛠 Problems
 
-<details>
+<details open>
 <summary><b>Issue 01: [Enter Bug Name Here]</b></summary>
 
 **Description:** Briefly explain what is happening here.
@@ -9,7 +9,11 @@
 (DRAG AND DROP YOUR VIDEO FILE RIGHT HERE)
 
 
-https://github.com/user-attachments/assets/225337cf-5499-43a2-8e42-2154adb44bcc
+
+https://github.com/user-attachments/assets/07c6f31e-ff62-42bc-a237-6fac5862166f
+
+
+
 
 
 </details>
