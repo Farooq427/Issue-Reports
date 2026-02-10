@@ -48,3 +48,38 @@ https://github.com/user-attachments/assets/9bf69906-af1b-43b1-ad86-41cd305423f4
 https://github.com/user-attachments/assets/a9304f1f-1d65-46bd-9edd-4e6e19408cc2
 
 </details>
+
+<details open>
+<summary><b>Issue 08</b></summary>
+
+https://github.com/user-attachments/assets/6cc542a2-6469-4d7d-9036-b133d347f668
+
+</details>
+
+<details open>
+<summary><b>Issue 09</b></summary>
+
+https://github.com/user-attachments/assets/00e63f7c-c46d-4cea-8ba3-791561f637b3
+
+</details>
+
+<details open>
+<summary><b>Issue 10</b></summary>
+
+https://github.com/user-attachments/assets/4bab4339-44d2-438a-9e5f-c6068b03ea6e
+
+</details>
+
+<details open>
+<summary><b>Issue 11</b></summary>
+
+Uploading P-11.mp4…
+
+</details>
+
+<details open>
+<summary><b>Issue 12</b></summary>
+
+https://github.com/user-attachments/assets/3ab13dc5-6807-410c-af04-1647c54be76e
+
+</details>
