@@ -34,3 +34,17 @@ https://github.com/user-attachments/assets/59f9b5bc-3841-4574-9a5d-a60681615426
 https://github.com/user-attachments/assets/2e614bfb-80d8-4554-962a-a982698bfe38
 
 </details>
+
+<details open>
+<summary><b>Issue 06</b></summary>
+
+https://github.com/user-attachments/assets/9bf69906-af1b-43b1-ad86-41cd305423f4
+
+</details>
+
+<details open>
+<summary><b>Issue 07</b></summary>
+
+https://github.com/user-attachments/assets/a9304f1f-1d65-46bd-9edd-4e6e19408cc2
+
+</details>
