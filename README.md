@@ -171,3 +171,10 @@ https://github.com/user-attachments/assets/70586ee4-8093-479e-949a-c1d904f78e91
 https://github.com/user-attachments/assets/d0f2a727-d7d3-4806-91c8-eb5d65cde547
 
 </details>
+
+<details open>
+<summary><b>Issue 23</b></summary>
+
+https://github.com/user-attachments/assets/bd7c0224-9fa4-4c0c-9414-4039d0671e6b
+
+</details>
