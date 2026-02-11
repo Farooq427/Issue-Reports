@@ -1,6 +1,15 @@
 ### 🛠 Problems
 
 <details open>
+<summary>🔴 <b>CRITICAL</b> | <b>Issue: Architectural Design Change</b></summary>
+
+### 🚩 Problem Severity: High
+
+Uploading Main-issue.mp4…
+
+</details>
+
+<details open>
 <summary><b>Issue 01</b></summary>
   
 https://github.com/user-attachments/assets/07c6f31e-ff62-42bc-a237-6fac5862166f
