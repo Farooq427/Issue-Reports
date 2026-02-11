@@ -10,6 +10,15 @@ https://github.com/user-attachments/assets/92ae77d2-9665-4e6e-a316-fb55649bdf7a
 </details>
 
 <details open>
+<summary>🔴 <b>CRITICAL</b> | <b>Issue: Canvas Performance Issue</b></summary>
+
+### 🚩 Problem Severity: High
+
+https://github.com/user-attachments/assets/b34ca2e9-90f1-4385-989f-a2694c416ae3
+
+</details>
+
+<details open>
 <summary><b>Issue 01</b></summary>
   
 https://github.com/user-attachments/assets/07c6f31e-ff62-42bc-a237-6fac5862166f
