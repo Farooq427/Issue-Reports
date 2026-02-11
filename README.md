@@ -90,3 +90,66 @@ https://github.com/user-attachments/assets/3ab13dc5-6807-410c-af04-1647c54be76e
 https://github.com/user-attachments/assets/97d756ab-6b97-4dd1-b772-7833eefd27ad
 
 </details>
+
+<details open>
+<summary><b>Issue 14</b></summary>
+
+https://github.com/user-attachments/assets/58455fb7-5581-4aab-8b4b-051ca03668ba
+
+</details>
+
+<details open>
+<summary><b>Issue 15</b></summary>
+
+https://github.com/user-attachments/assets/f3d143c1-7a1f-4e17-ae29-2f101bf2a4a5
+
+</details>
+
+<details open>
+<summary><b>Issue 16</b></summary>
+
+https://github.com/user-attachments/assets/a6967e72-6f90-4d98-85a7-03a9e85ea32d
+
+</details>
+
+<details open>
+<summary><b>Issue 17</b></summary>
+
+https://github.com/user-attachments/assets/aeaedf4b-7ce8-4e91-a397-be993e5cecda
+
+</details>
+
+<details open>
+<summary><b>Issue 18</b></summary>
+
+https://github.com/user-attachments/assets/7aed35bf-9a55-40dc-a682-c85b11f776e4
+
+</details>
+
+<details open>
+<summary><b>Issue 19</b></summary>
+
+https://github.com/user-attachments/assets/61cffa4a-afd7-44f8-8ed4-46c5b949d1b0
+
+</details>
+
+<details open>
+<summary><b>Issue 20</b></summary>
+
+https://github.com/user-attachments/assets/964b0d08-a690-4fa1-8cca-73bdc4e3082c
+
+</details>
+
+<details open>
+<summary><b>Issue 21</b></summary>
+
+https://github.com/user-attachments/assets/70586ee4-8093-479e-949a-c1d904f78e91
+
+</details>
+
+<details open>
+<summary><b>Issue 22</b></summary>
+
+https://github.com/user-attachments/assets/d0f2a727-d7d3-4806-91c8-eb5d65cde547
+
+</details>
